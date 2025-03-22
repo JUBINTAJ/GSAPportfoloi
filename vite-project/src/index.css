@@ -1,0 +1,11 @@
+
+@import "tailwindcss";
+
+
+.clip-path-polygon-closed {
+    clip-path: polygon(0% 0%,100% 0%,100% 0%,0% 0%);
+}
+
+.menu-overlay {
+  transition: clip-path 0.5s ease-in-out;
+}
