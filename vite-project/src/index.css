@@ -9,3 +9,19 @@
 .menu-overlay {
   transition: clip-path 0.5s ease-in-out;
 }
+
+
+.scrollb {
+  overflow-y: scroll; 
+  max-height: 865px; 
+}
+
+
+.scrollb::-webkit-scrollbar {
+  width: 0; 
+}
+
+
+.scrollb {
+  scrollbar-width: none; 
+}
