@@ -25,3 +25,7 @@
 .scrollb {
   scrollbar-width: none; 
 }
+
+.custom-title {
+  font-family: 'League Spartan', sans-serif;
+}
