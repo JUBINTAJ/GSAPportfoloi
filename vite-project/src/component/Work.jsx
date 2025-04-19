@@ -24,14 +24,14 @@ function Work() {
           Frontend Developer
         </h2>
         <p className="text-[#F7FCFE] w-[500px] leading-loose tracking-wider italic font-extrabold uppercase">
-          At Bridgeon Solution, I developed mobile-first React web applications, optimizing performance with Redux and Zustand. I built fast, SEO-friendly apps with Next.js, integrated third-party services like Stripe, and mentored junior developers.
+          At Bridgeon Solution, I developed mobile-first React web applications, optimizing performance with Redux and Zustand. I built fast, SEO-friendly apps with Next.js, integrated third-party services like Razorpay, and mentored junior developers.
         </p>
 
         <h2 className="text-xl text-[#F7FCFE] mt-6 leading-loose tracking-wider italic font-extrabold uppercase">
           Backend Developer
         </h2>
         <p className="text-[#F7FCFE] w-[500px] leading-loose tracking-wider italic font-extrabold uppercase">
-          I created scalable backend services using Node.js, Express, and MongoDB. I implemented JWT authentication, developed RESTful APIs, integrated payment gateways (Razorpay, Stripe), and streamlined deployment with Rendor.
+          I created scalable backend services using Node.js, Express, and MongoDB. I implemented JWT authentication, developed RESTful APIs, integrated payment gateways (Razorpay), and streamlined deployment with Rendor.
         </p>
       </div>
     </div>

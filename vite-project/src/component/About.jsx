@@ -42,7 +42,7 @@ function About() {
         <div className="mt-4 space-y-2">
           <p className="text-lg text-[#F7FCFE]">
             <span className="font-semibold">Bachelor of Computer Applications (BCA)</span> <br />
-            <span className="text-sm text-[#F7FCFE]/70 leading-loose tracking-wider italic font-extrabold uppercase ">IGNOU University, Kerala — <span className="italic">Present (Expected 2025)</span></span>
+            <span className="text-sm text-[#F7FCFE]/70 leading-loose tracking-wider italic font-extrabold uppercase ">IGNOU University, Kerala — <span className="italic">Present </span></span>
           </p>
 
           <p className="text-[#F7FCFE]/80 text-sm max-w-2xl leading-loose tracking-wider italic font-extrabold uppercase">

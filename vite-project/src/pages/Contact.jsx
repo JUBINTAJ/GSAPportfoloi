@@ -20,7 +20,6 @@ function Contact() {
         }`} />
       </div>
 
-      {/* Main content */}
       <div className="relative z-20 flex flex-col items-center space-y-6">
         <div className={`flex items-center space-x-6 transition-all duration-1000 transform ${
           isLoaded ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'
@@ -43,7 +42,6 @@ function Contact() {
           to create smooth, user-friendly web apps that perform great across all devices.
         </p>
 
-        {/* Social links */}
         <div className={`flex space-x-6 mt-8 transition-all duration-1000 delay-600 transform ${
           isLoaded ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'
         }`}>
